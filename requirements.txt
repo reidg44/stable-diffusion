@@ -11,4 +11,5 @@ pytest-xdist
 python-dotenv
 requests
 torch
+transformers
 yapf
