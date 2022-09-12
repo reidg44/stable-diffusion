@@ -1,0 +1,14 @@
+boto3
+diffusers
+ipykernel
+matplotlib
+mypy
+pandas
+pylint
+pytest
+pytest-cov
+pytest-xdist
+python-dotenv
+requests
+torch
+yapf
