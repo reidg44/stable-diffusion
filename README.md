@@ -5,7 +5,7 @@ Code will check for GPUs and make use of them if they can.
 ### Supported GPUs:
 - Nvidia (CUDA)
 - Apple M1/M2 (MPS)
-###Not supported:
+### Not supported:
 - AMD (MPS) *MPS for AMD GPUs does not fully support Stable Diffusion functions*
 
 ## Setup
