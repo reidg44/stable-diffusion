@@ -1,15 +1,9 @@
-boto3
 diffusers
 ipykernel
-matplotlib
+ipywidgets
 mypy
-pandas
 pylint
-pytest
-pytest-cov
-pytest-xdist
 python-dotenv
-requests
 torch
 transformers
 yapf
